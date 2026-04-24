@@ -1,1 +1,1 @@
-slides -- an index of all modules on krisyotam.com
+slides -- slide presentations for krisyotam.com
